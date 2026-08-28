@@ -75,6 +75,6 @@ Here are the free tools I used to write and validate my code.
 
 ## Attribution
 
-> All code files are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagerize my work. Guidelines for appropriate usage and sharing can be found in the license file (`LICENSE.md`).
->
->Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International")
+All code files are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagiarize my work. Guidelines for appropriate usage and sharing can be found in the license file (`LICENSE.md`).
+
+Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International")
