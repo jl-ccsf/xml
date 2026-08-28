@@ -9,49 +9,49 @@ In Spring 2026, I took the course [CNIT-131A: Introduction to XML & JSON](https:
 
 ## Contents
 
-### Assets
-
-Image files (.jpg) linked to homework assignments. I do not own any of these images. They are openly licensed and free to use.
-
-- `financial_startup.jpg`
-
 ### Source Codes
 
 Homework files (.xml, .xsl, .html, .css) submitted for class credit.
 
 - Homework 1: Course homepage
 
-  - `index.html`
+  - [`index.html`](/cnit-131a/src/index.html "Main page")
 
-  - `index.css`
+  - [`index.css`](/cnit-131a/src/index.css "Main stylesheet")
 
 - Homework 2: Book donations catalog
 
-  - `book_donations_catalog.xml`
+  - [`book_donations_catalog.xml`](/cnit-131a/src/hw2/book_donations_catalog.xml "Catalog data")
 
-  - `book_donations_catalog.css`
+  - [`book_donations_catalog.css`](/cnit-131a/src/hw2/book_donations_catalog.css "Catalog template")
 
 - Homework 3: Client accounts ledger
 
-  - `client_accounts_ledger.xml`
+  - [`client_accounts_ledger.xml`](/cnit-131a/src/hw3/client_accounts_ledger.xml "Ledger data")
 
-  - `client_accounts_ledger.xsl`
+  - [`client_accounts_ledger.xsl`](/cnit-131a/src/hw3/client_accounts_ledger.xsl "Ledger template")
 
-  - `client_accounts_ledger.css`
+  - [`client_accounts_ledger.css`](/cnit-131a/src/hw3/client_accounts_ledger.css "Ledger stylesheet")
 
 - Homework 4: Financial startup clients
 
-  - `financial_startup_clients.xml`
+  - [`financial_startup_clients.xml`](/cnit-131a/src/hw4/financial_startup_clients.xml "Startup data")
 
-  - `financial_startup_clients.xsl`
+  - [`financial_startup_clients.xsl`](/cnit-131a/src/hw4/financial_startup_clients.xsl "Startup template")
 
-  - `financial_startup_clients.css`
+  - [`financial_startup_clients.css`](/cnit-131a/src/hw4/financial_startup_clients.css "Startup stylesheet")
+ 
+### Assets
+
+Image files (.jpg) linked to homework assignments. I do not own these images. They are openly licensed and free to use.
+
+- [`financial_startup.jpg`](/cnit-131a/assets/financial_startup.jpg "Startup image")
 
 ## Feedback
 
 If you're a fellow student at CCSF or elsewhere, feel free to leave a comment in my [Guestbook](https://github.com/jl-ccsf/jl-ccsf.github.io/discussions/1 "Discussions tab")! To contact me directly, email [jl-ccsf@proton.me](mailto:jl-ccsf@proton.me "Email me").
 
-For guidelines on appropriate behavior and communication, please see the Code of Conduct file (`CODE_OF_CONDUCT.md`).
+For guidelines on appropriate behavior and communication, please see the [Code of Conduct](/CODE_OF_CONDUCT.md "Root file") (`CODE_OF_CONDUCT.md`).
 
 ## Resources
 
@@ -75,6 +75,6 @@ Here are the free tools I used to write and validate my code.
 
 ## Attribution
 
-All code files are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagiarize my work. Guidelines for appropriate usage and sharing can be found in the license file (`LICENSE.md`).
+All code files are my own work. **No AI was used at any point in my creation process. I do not consent to AI using my content.** Please do not plagiarize my work. Guidelines for appropriate usage and sharing can be found in the [license](/LICENSE.md "Root file") (`LICENSE.md`).
 
 Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International")
