@@ -1,0 +1,31 @@
+/* jl-ccsf 01/24/2026 */
+/* Book Donations Catalog Stylesheet */
+
+catalog {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    max-width: 500px;
+    margin: auto;
+}
+
+header, book, title, author, publisher { 
+    display: block;
+}
+
+header {
+    margin: 1rem;
+    font-size: xx-large;
+    font-weight: bold;
+    font-variant-caps: small-caps;
+}
+
+title {
+    color: red;
+    font-weight: bold;
+}
+
+book:nth-child(odd) {
+    background-color: white;
+    color: black;
+}

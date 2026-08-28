@@ -1,0 +1,169 @@
+/* jl-ccsf 02/05/2026 */
+/* Client Accounts Ledger Stylesheet */
+
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    margin: 1em;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
+/* NAV */
+
+#return {
+    float: left;
+    background-color: white;
+    color: black;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-variant-caps: all-small-caps;
+    margin-top: 1em;
+}
+
+#return:hover {
+    background-color: black;
+    color: white;
+    border: none;
+    outline: 1px solid white;
+}
+
+#return:active {
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    outline: none;
+}
+
+#home {
+    background-color: transparent;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#home:hover {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+#home:active {
+    background-color: transparent;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+/* MAIN */
+
+main {
+    margin-top: 2em;
+}
+
+table, th, td {
+    border: 1px solid white;
+} 
+
+th, td {
+    padding: 5px;
+}
+
+th {
+    font-weight: bold;
+    font-variant-caps: all-small-caps;
+}
+
+/* LINKS */
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: lightgray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+/* TOTALS */
+
+.less {
+    text-align: right; 
+    color: red; 
+    font-weight: bold;
+}                
+
+.total {
+    text-align: right;
+}
+
+/* COPYLEFT */
+
+footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 1em;
+}
+
+#license {
+    background-color: black;
+    border: none;
+    outline: none;
+    width: 5.25em;
+    height: 1.5em;
+    float: left;
+    margin-top: 0.75em;
+    cursor: pointer;
+}
+
+#license:hover {
+    background-color: white;
+}
+
+#license:active {
+    background-color: black;
+    border: 1px solid white;
+}
+
+#cc {
+    text-decoration: none;
+    position: absolute;
+    width: 5em;
+    height: 1.5em;
+    cursor: pointer;
+}
+
+#cc:hover {
+    background-color: transparent;
+}
+
+#cc:active {
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+img {
+    max-width: 1.25em;
+    max-height: 1.25em;
+}
+
+#attribution {
+    font-size: small;
+    text-align: right;
+    float: right;
+}

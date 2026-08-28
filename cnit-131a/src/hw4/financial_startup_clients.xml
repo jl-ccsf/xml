@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="hw4.xsl"?>
+<!--jl-ccsf 02/28/2026-->
+<!--ABC Financial Startup Clients-->
+<accounts>
+    <!--Account totals are in USD-->
+    <client id="CS5355">
+        <name>
+            <first>Grant</first>
+            <last>Wu</last>
+        </name>
+        <address>
+            <street>55 Hawking street</street>
+            <city>Delton</city>
+            <state>MN</state>
+            <zip>89011</zip>
+        </address>
+        <phone>(532) 555-9939</phone>
+        <email>gwu&#64;brockton.com</email>
+        <account_total>60000</account_total>
+        <years>10</years>
+    </client>
+    <client id="CS5108">
+        <name>
+            <first>Cynthia</first>
+            <last>Browne</last>
+        </name>
+        <address>
+            <street>71 Circuit Ct.</street>
+            <city>Wheaton</city>
+            <state>MN</state>
+            <zip>89321</zip>
+        </address>
+        <phone>(532) 555-3813</phone>
+        <email>cynthia&#64;brownes.com</email>
+        <account_total>80000</account_total>
+        <years>9</years>
+    </client>
+    <client id="CS5331">
+        <name>
+            <first>Robert</first>
+            <last>Olson</last>
+        </name>
+        <address>
+            <street>5133 Oak street</street>
+            <city>Delton</city>
+            <state>MN</state>
+            <zip>89011</zip>
+        </address>
+        <phone>(532) 555-8981</phone>
+        <email>rolson&#64;delisp.net</email>
+        <account_total>25000</account_total>
+        <years>8</years>
+    </client>
+    <client id="CS5771">
+        <name>
+            <first>Steve</first>
+            <last>Bones</last>
+        </name>
+        <address>
+            <street>900 Lawton street</street>
+            <city>Wheaton</city>
+            <state>MN</state>
+            <zip>89211</zip>
+        </address>
+        <phone>(533) 555-5434</phone>
+        <email>sbone&#64;mail.com</email>
+        <account_total>105000</account_total>
+        <years>7</years>
+    </client>
+    <client id="CS5981">
+        <name>
+            <first>Jim</first>
+            <last>Wheatley</last>
+        </name>
+        <address>
+            <street>Hawkes Lane</street>
+            <city>Delton</city>
+            <state>MN</state>
+            <zip>89211</zip>
+        </address>
+        <phone>(542) 555-8828</phone>
+        <email>jim_wheatley&#64;kyu.edu</email>
+        <account_total>83000</account_total>
+        <years>6</years>
+    </client>
+    <client id="CS5308">
+        <name>
+            <first>Cindy</first>
+            <last>Kaufmann</last>
+        </name>
+        <address>
+            <street>31 Alice Avenue</street>
+            <city>Delton</city>
+            <state>MN</state>
+            <zip>89011</zip>
+        </address>
+        <phone>(532) 555-7212</phone>
+        <email>cka&#64;ispnet.net</email>
+        <account_total>125000</account_total>
+        <years>5</years>
+    </client>
+    <client id="CS5250">
+        <name>
+            <first>Lee</first>
+            <last>Hayes</last>
+        </name>
+        <address>
+            <street>451 Unwin Ct.</street>
+            <city>Jasper</city>
+            <state>MN</state>
+            <zip>89381</zip>
+        </address>
+        <phone>(534) 555-9082</phone>
+        <email>leehayes&#64;clarion.net</email>
+        <account_total>118000</account_total>
+        <years>4</years>
+    </client>
+    <client id="CS5981">
+        <name>
+            <first>Jane</first>
+            <last>Wilson</last>
+        </name>
+        <address>
+            <street>87 Hilltop Drive</street>
+            <city>Jasper</city>
+            <state>MN</state>
+            <zip>89381</zip>
+        </address>
+        <phone>(534) 555-7493</phone>
+        <email>jwilson&#64;cls.net</email>
+        <account_total>95000</account_total>
+        <years>3</years>
+    </client>
+</accounts>

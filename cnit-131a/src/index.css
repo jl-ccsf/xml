@@ -1,0 +1,91 @@
+/* jl-ccsf 02/08/2026 */
+/* Homepage Stylesheet */
+
+body {
+    font-family: sans-serif; 
+    color: white; 
+    background-color: black;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+
+#home {
+    font-variant-caps: all-small-caps;
+}
+    
+/* LINKS */
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+/* COPYLEFT */
+
+footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 1em;
+}
+
+#license {
+    background-color: black;
+    border: none;
+    outline: none;
+    width: 5.25em;
+    height: 1.5em;
+    float: left;
+    margin-top: 0.75em;
+    cursor: pointer;
+}
+
+#license:hover {
+    background-color: white;
+}
+
+#license:active {
+    background-color: black;
+    border: 1px solid white;
+}
+
+#cc {
+    text-decoration: none;
+    position: absolute;
+    width: 5em;
+    height: 1.5em;
+    cursor: pointer;
+}
+
+#cc:hover {
+    background-color: transparent;
+}
+
+#cc:active {
+    background-color: transparent;
+    border: 1px solid white;
+}
+
+.svg {
+    max-width: 1.25em;
+    max-height: 1.25em;
+}
